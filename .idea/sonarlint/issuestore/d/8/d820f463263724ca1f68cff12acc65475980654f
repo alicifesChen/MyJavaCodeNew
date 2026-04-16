@@ -1,0 +1,6 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(í Âõøÿÿÿÿ8‰è¼é†2J$8a22bb1a-4b69-4df6-98c6-455d11dc6fd3
+p
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ÖÕ¼é†2J$6e63f340-51e7-42fd-ae9a-74a43bd8b105
+r
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ÖÕ¼é†2J$5db5c7ee-83ab-4bce-81e0-4bdbd8dc66c8

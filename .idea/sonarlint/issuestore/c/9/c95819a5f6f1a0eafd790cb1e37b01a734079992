@@ -1,0 +1,9 @@
+
+ˆ
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(»ÛÀˆ8¯„â†2J$bb439625-83e8-44de-8be9-e9fbb2091d72
+m	java:S106#"+Replace this use of System.out by a logger.(ÛÀà8‚ú…â†2J$1fe55684-a5c6-499c-933a-044456cdf06f
+r	java:S106$"+Replace this use of System.out by a logger.(±µÔ¡şÿÿÿÿ8‚ú…â†2J$454b6c7f-182a-49db-a597-bc6d0e5dd4d0
+p
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8·„â†2J$3d6b7310-efa4-41c0-b58f-d24b7596dd4b
+r
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8·„â†2J$1298f2d9-7438-4a75-8f05-3fad7b3181b6

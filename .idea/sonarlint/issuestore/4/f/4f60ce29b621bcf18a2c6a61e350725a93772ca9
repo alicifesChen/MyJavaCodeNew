@@ -1,0 +1,9 @@
+
+r	java:S106!"+Replace this use of System.out by a logger.(Ìµ”®ùÿÿÿÿ8¯îÎÑ‚2J$85f0744b-24fa-4dc6-8bd1-7f4909b1f6a8
+m	java:S106""+Replace this use of System.out by a logger.(¬ÎÈÇ8¯îÎÑ‚2J$e6d3c64e-495b-4924-8a38-d54e17f693ad
+r	java:S106#"+Replace this use of System.out by a logger.(÷ƒ††úÿÿÿÿ8¯îÎÑ‚2J$be2b2dfa-4254-4283-b852-3a0b953a0756
+r	java:S106$"+Replace this use of System.out by a logger.(”³£šøÿÿÿÿ8°îÎÑ‚2J$29b022eb-fb08-4204-99ed-0652c40a7edf
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÓÑ‚2J$cb45ce37-0557-4ee0-84ed-62b16c09e4aa
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÓÑ‚2J$21260a4f-5cff-418b-b2b3-3c6c736c4689
